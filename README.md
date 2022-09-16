@@ -1,6 +1,6 @@
 ## Opción 2_Certificado_TLS/SSL
 
-En este ejemplo vamos a instalar un certificado TSL/SLL en un hosting GoDaddy autorenovable de Let's Encrypt a través de acme.sh
+En este ejemplo vamos a instalar un certificado TSL/SSL en un hosting GoDaddy autorenovable de Let's Encrypt a través de acme.sh
 
 Para empezar tenemos que habilitar SSH a través de la pagina del producto
 ![0](start.png)
